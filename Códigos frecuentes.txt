@@ -1,0 +1,40 @@
+VS CODE
+! + ENTER / -->Estructura html básica
+---------------------------------------------------------------------------------------------------
+
+						HTML
+<!DOCTYPE html> 
+---------------------------------------------------------------------------------------------------
+<meta charset=”utf-8”> /--> Para poder agregar tíldes y entre otros
+---------------------------------------------------------------------------------------------------
+<link rel="stylesheet" href="" type="text/css"> / --> Enlazar a archivo .CSS
+---------------------------------------------------------------------------------------------------
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> /--> habilitar media queries
+---------------------------------------------------------------------------------------------------
+<script type="text/javascript" src="nombredelarchivo .js"></script> /--> Enlazar a archivo .js
+---------------------------------------------------------------------------------------------------
+<!-- Comentario --> / --> Comentario HTML
+---------------------------------------------------------------------------------------------------
+
+						CSS
+---------------------------------------------------------------------------------------------------
+/* Comentario CSS */
+---------------------------------------------------------------------------------------------------
+/*Ojete con siempre colocar esto*/
+*{
+/*Quitar margenes y padding por defecto*/
+    margin: 0px;
+    padding: 0px;
+/*Quitar estilos de las listas*/
+    list-style-type: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+---------------------------------------------------------------------------------------------------
+
+						Js
+// --> Comentario en una sola línea
+
+						Python
+# --> Comentario en una sola línea
+""" Comentario """ --> Comentario multilínea
+
